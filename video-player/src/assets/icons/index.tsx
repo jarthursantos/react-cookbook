@@ -1,0 +1,10 @@
+export {default as ArrowBackIcon} from './ArrowBack';
+export {default as BrightnessHighIcon} from './BrightnessHigh';
+export {default as Foward10Icon} from './Foward10';
+export {default as PauseIcon} from './Pause';
+export {default as PlayIcon} from './Play';
+export {default as Replay10Icon} from './Replay10';
+export {default as SkipNextIcon} from './SkipNext';
+export {default as SkipPreviousIcon} from './SkipPrevious';
+export {default as VideoOptionsIcon} from './VideoOptions';
+export {default as VolumeHighIcon} from './VolumeHigh';
