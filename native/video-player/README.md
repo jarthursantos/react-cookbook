@@ -2,11 +2,15 @@
 
 ![Controls](.github/controls.jpeg)
 
+This project implements controls to [react-native-video](https://github.com/react-native-community/react-native-video) with animation in all buttons
+
 ## TODO
 
 - [x] `Play` a local/external video
 - [x] `Play` & `Pause` video
 - [x] `Replay` & `Foward` 10 seconds
+- [x] `Fade Animation` to controls
+- [ ] `Translation Animation` to header and actions
 - [ ] Change video `Volume`
   - [ ] Change with `Gestures`
 - [ ] Change screen `Brightness`
