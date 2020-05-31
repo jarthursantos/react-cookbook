@@ -12,7 +12,7 @@ const MANUAL_SEEK_SECONDS = 10;
 
 const Player: React.FC = () => {
   const player = useRef<VideoPlayer>(null);
-  const [isPaused, setPaused] = useState(true);
+  const [isPaused, setPaused] = useState(false);
   const [isOpenned, setOpenned] = useState(true);
   const [currentData, setCurrentData] = useState<OnProgressData>();
 
