@@ -1,8 +1,8 @@
 # WebView Extract Data
 
-![Loading](.github/loading.jpg)
-![Working](.github/working.jpg)
-![Result](.github/result.jpg)
+![Loading](.github/loading.jpg | width=250)
+![Working](.github/working.jpg | width=250)
+![Result](.github/result.jpg | width=250)
 
 Extract videos from a URL like Web Scraping Techniques, you can change the Injected JavaScript and example URL
 
